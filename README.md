@@ -1,1 +1,1 @@
-# Rating-Recommendation-Prediction
+# Product-Recommendation-Prediction
