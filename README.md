@@ -1,4 +1,4 @@
-# Product Recommendation Prediction
+# Product Recommendation Prediction | [View Code](https://github.com/Matsalak-Viktoria/Default-Probability-Prediction/blob/main/Default_Probability_Prediction.ipynb)
 
 This project is currently available as a Jupyter Notebook in Ukrainian. An English translation is planned.
 
